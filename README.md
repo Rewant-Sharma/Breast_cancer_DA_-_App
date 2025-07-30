@@ -1,3 +1,7 @@
+#Data set :
+I took this Data set from Kaggle , but the data set is also available at:-
+the UW CS ftp server:ftp ftp.cs.wisc.educd math-prog/cpo-dataset/machine-learn/WDBC/
+
 # Breast_cancer_DA_and_App
 #Breast Cancer Prediction App#
 
